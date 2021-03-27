@@ -1,0 +1,7 @@
+Changes
+lib/Text/Sparkline.pm
+Makefile.PL
+MANIFEST
+README.md
+t/00-load.t
+t/sparkline.t
